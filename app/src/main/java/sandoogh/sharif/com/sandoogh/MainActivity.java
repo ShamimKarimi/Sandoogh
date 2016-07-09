@@ -19,7 +19,6 @@ public class MainActivity extends BaseActivity {
 
         View contentView = inflater.inflate(R.layout.activity_main, null, false);
         mDrawerLayout.addView(contentView, 0);
-
     }
 
 }
